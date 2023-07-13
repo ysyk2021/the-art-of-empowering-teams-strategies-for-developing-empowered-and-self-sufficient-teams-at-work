@@ -1,4 +1,4 @@
-Chapter 1: Introduction to Empowering Teams: Historical Perspectives on Empowerment Theory and Practice
+Historical Perspectives on Empowerment Theory and Practice
 =======================================================================================================
 
 In this chapter, we will provide an introduction to empowering teams by exploring the historical perspectives on empowerment theory and practice. We will discuss the evolution of empowerment as a concept and its application in modern workplaces.

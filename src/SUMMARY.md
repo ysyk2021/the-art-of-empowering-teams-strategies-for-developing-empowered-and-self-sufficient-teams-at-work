@@ -1,7 +1,6 @@
 # Summary
 
-- [Introduction](README.md)
-- [Chapter 1: Introduction to Empowering Teams](chapter-1.md)
+- [Chapter 1: Introduction to Empowering Teams](README.md)
   - [Defining empowerment in the workplace](chapter-1-1.md)
   - [The importance of empowering teams for organizational success](chapter-1-2.md)
   - [Historical perspectives on empowerment theory and practice](chapter-1-3.md)
@@ -37,9 +36,5 @@
   - [Maintaining motivation and engagement among team members](chapter-9-1.md)
   - [Navigating changes and challenges in the workplace](chapter-9-2.md)
   - [Continuously evaluating and adjusting empowerment strategies](chapter-9-3.md)
-- [Chapter 10: Conclusion: Mastering the Art of Empowering Teams](chapter-10.md)
-  - [The importance of empowering teams for organizational success](chapter-10-1.md)
-  - [Best practices for developing empowered and self-sufficient teams](chapter-10-2.md)
-  - [Emerging trends and future directions in empowerment theory and practice](chapter-10-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

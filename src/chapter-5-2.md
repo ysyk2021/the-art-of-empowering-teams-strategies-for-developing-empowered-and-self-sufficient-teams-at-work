@@ -1,4 +1,4 @@
-Chapter 5: Encouraging Innovation and Creativity: Encouraging risk-taking and learning from failure
+Encouraging risk-taking and learning from failure
 ===================================================================================================
 
 Innovation and creativity are essential components of building empowered and self-sufficient teams. However, to foster innovation and creativity within a team, it is important to create an environment that encourages risk-taking and learning from failure.

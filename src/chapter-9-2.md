@@ -1,4 +1,4 @@
-Chapter 9: Sustaining Empowerment over Time: Navigating Changes and Challenges in the Workplace
+Navigating Changes and Challenges in the Workplace
 ===============================================================================================
 
 In this chapter, we will discuss how to sustain empowerment over time in empowered teams by navigating changes and challenges in the workplace. Empowering teams involves creating a culture of autonomy and ownership among team members, which can be challenging to maintain during times of change or when faced with unexpected challenges. We will explore how to navigate changes and challenges in the workplace, including fostering resilience, promoting adaptability, and communicating effectively.

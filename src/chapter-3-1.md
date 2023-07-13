@@ -1,4 +1,4 @@
-Chapter 3: Understanding Individual and Team Strengths: Identifying Individual Strengths and Skills
+Identifying Individual Strengths and Skills
 ===================================================================================================
 
 In this chapter, we will explore the importance of understanding individual and team strengths as a strategy for empowering teams. We will discuss the benefits of such knowledge, as well as strategies for identifying individual strengths and skills in your workplace.

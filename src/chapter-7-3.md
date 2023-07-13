@@ -1,4 +1,4 @@
-Chapter 7: Measuring Success and Celebrating Achievements: Recognizing Individual Contributions to Team Success
+Recognizing Individual Contributions to Team Success
 ===============================================================================================================
 
 In this chapter, we will discuss how to measure success and celebrate achievements in empowered teams. Empowering teams involves creating a culture of autonomy and ownership among team members, which requires clear measures of success and recognition for individual contributions. We will explore how to measure success and celebrate achievements, including setting measurable goals, providing regular feedback, and celebrating successes as a team.

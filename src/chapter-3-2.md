@@ -1,4 +1,4 @@
-Chapter 3: Understanding Individual and Team Strengths: Building well-rounded, complementary teams
+Building well-rounded, complementary teams
 ==================================================================================================
 
 In order to build an empowered and self-sufficient team, it is important to understand the individual strengths of each team member and how they can work together as a cohesive unit. This requires identifying and leveraging the unique skills and abilities that each person brings to the table.

@@ -1,4 +1,4 @@
-Chapter 8: Managing Conflict and Resolving Problems: Strategies for Resolving Problems and Conflicts
+Strategies for Resolving Problems and Conflicts
 ====================================================================================================
 
 In this chapter, we will discuss strategies for resolving problems and conflicts in empowered teams. Empowering teams involves creating a culture of autonomy and ownership among team members, which can sometimes lead to conflicts or disagreements. We will explore how to resolve problems and conflicts in an empowered team, including promoting a solutions-focused mindset, using active listening skills, and seeking win-win solutions.

@@ -1,4 +1,4 @@
-Chapter 6: Promoting Continuous Learning and Development: Encouraging a Growth Mindset Among Team Members
+Encouraging a Growth Mindset Among Team Members
 =========================================================================================================
 
 In this chapter, we will discuss how to encourage a growth mindset among team members in empowered teams. Empowering teams involves creating a culture of autonomy and ownership among team members, which requires ongoing learning and development. We will explore how to encourage a growth mindset, including promoting a culture of experimentation, providing feedback and recognition, and fostering a sense of purpose.

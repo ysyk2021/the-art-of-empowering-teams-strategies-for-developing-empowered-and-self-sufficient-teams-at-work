@@ -1,4 +1,4 @@
-Chapter 2: Building a Foundation for Empowerment: Setting Clear Goals and Expectations
+Setting Clear Goals and Expectations
 ======================================================================================
 
 In this chapter, we will explore the importance of setting clear goals and expectations as a foundation for empowerment. We will discuss the benefits of such clarity, as well as strategies for establishing it in your workplace.

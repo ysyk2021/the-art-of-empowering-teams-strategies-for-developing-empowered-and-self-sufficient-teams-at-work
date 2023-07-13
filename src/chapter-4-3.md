@@ -1,4 +1,4 @@
-Chapter 4: Delegating Authority and Responsibility: Providing Support and Resources for Delegated Tasks
+Providing Support and Resources for Delegated Tasks
 =======================================================================================================
 
 In this chapter, we will discuss how to provide support and resources for delegated tasks in empowered teams. Empowering teams involves giving team members the autonomy to make decisions and take ownership of their work, which requires effective delegation. We will explore how to provide support and resources for delegated tasks, including providing training and development opportunities, ensuring access to necessary tools and equipment, and offering ongoing support and guidance.

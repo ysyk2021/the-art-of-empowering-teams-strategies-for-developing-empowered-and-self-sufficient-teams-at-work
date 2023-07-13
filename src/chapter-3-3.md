@@ -1,4 +1,4 @@
-Chapter 3: Understanding Individual and Team Strengths: Encouraging Diversity and Inclusivity
+Encouraging Diversity and Inclusivity
 =============================================================================================
 
 In this chapter, we will discuss how to understand individual and team strengths in empowered teams. Empowering teams involves creating a culture of autonomy and ownership among team members, which requires understanding and leveraging individual strengths. We will explore how to encourage diversity and inclusivity, including embracing differences, promoting equity, and fostering a sense of belonging.

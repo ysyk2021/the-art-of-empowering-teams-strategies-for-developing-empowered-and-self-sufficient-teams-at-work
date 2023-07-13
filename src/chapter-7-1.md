@@ -1,4 +1,4 @@
-Chapter 7: Measuring Success and Celebrating Achievements: Setting Metrics and Benchmarks for Success
+Setting Metrics and Benchmarks for Success
 =====================================================================================================
 
 In this chapter, we will explore the importance of measuring success and celebrating achievements when empowering teams at work. We will discuss setting metrics and benchmarks for success, tracking progress, and celebrating milestones along the way.

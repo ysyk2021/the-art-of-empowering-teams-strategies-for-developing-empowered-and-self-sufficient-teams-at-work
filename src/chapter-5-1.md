@@ -1,4 +1,4 @@
-Chapter 5: Encouraging Innovation and Creativity: Creating a Culture of Innovation and Experimentation
+Creating a Culture of Innovation and Experimentation
 ======================================================================================================
 
 In this chapter, we will discuss how to encourage innovation and creativity in empowered teams. Empowering teams involves giving team members the autonomy to make decisions and take ownership of their work, which can lead to increased innovation and creativity. We will explore how to create a culture of innovation and experimentation, including promoting risk-taking, encouraging diverse perspectives, and providing resources and support.

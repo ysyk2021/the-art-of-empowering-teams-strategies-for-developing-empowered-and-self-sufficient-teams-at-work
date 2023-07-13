@@ -1,4 +1,4 @@
-Chapter 9: Sustaining Empowerment over Time: Maintaining Motivation and Engagement Among Team Members
+Maintaining Motivation and Engagement Among Team Members
 =====================================================================================================
 
 In this chapter, we will discuss how to sustain empowerment over time in empowered teams. Empowering teams involves creating a culture of autonomy and ownership among team members, which can be challenging to maintain over time. We will explore how to maintain motivation and engagement among team members, including providing ongoing support and recognition, promoting work-life balance, and fostering a culture of continuous learning and development.

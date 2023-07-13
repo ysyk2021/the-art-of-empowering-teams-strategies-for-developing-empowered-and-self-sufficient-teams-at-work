@@ -1,4 +1,4 @@
-Chapter 7: Measuring Success and Celebrating Achievements: Celebrating team achievements and milestones
+Celebrating team achievements and milestones
 =======================================================================================================
 
 Measuring success is an important part of building empowered and self-sufficient teams. However, it is also essential to celebrate team achievements and milestones, as this can help build morale and foster a sense of community within the team.

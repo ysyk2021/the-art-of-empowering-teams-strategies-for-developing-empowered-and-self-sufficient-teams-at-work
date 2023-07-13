@@ -1,4 +1,4 @@
-Chapter 9: Sustaining Empowerment over Time: Continuously Evaluating and Adjusting Empowerment Strategies
+Continuously Evaluating and Adjusting Empowerment Strategies
 =========================================================================================================
 
 In this chapter, we will discuss how to sustain empowerment over time in empowered teams. Empowering teams involves creating a culture of autonomy and ownership among team members, which can be challenging to maintain over time. We will explore how to continuously evaluate and adjust empowerment strategies, including gathering feedback from team members, monitoring performance metrics, and adapting to changing circumstances.

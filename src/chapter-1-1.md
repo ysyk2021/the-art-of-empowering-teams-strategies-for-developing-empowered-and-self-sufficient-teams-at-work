@@ -1,4 +1,4 @@
-Chapter 1: Introduction to Empowering Teams: Defining Empowerment in the Workplace
+Defining Empowerment in the Workplace
 ==================================================================================
 
 In this chapter, we will provide an introduction to empowering teams by defining what empowerment means in the workplace. We will explore different definitions of empowerment and how it can be applied in modern workplaces.

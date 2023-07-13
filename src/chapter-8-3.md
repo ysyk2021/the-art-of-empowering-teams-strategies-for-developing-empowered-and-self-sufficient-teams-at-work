@@ -1,4 +1,4 @@
-Chapter 8: Managing Conflict and Resolving Problems: Creating a Culture of Open Communication and Constructive Feedback
+Creating a Culture of Open Communication and Constructive Feedback
 =======================================================================================================================
 
 In this chapter, we will discuss how to manage conflict and resolve problems in empowered teams. Empowering teams involves creating a culture of open communication and constructive feedback, which can help prevent conflicts from arising and enable team members to work together effectively. We will explore how to create a culture of open communication and constructive feedback, manage conflict when it arises, and resolve problems in a productive and collaborative way.

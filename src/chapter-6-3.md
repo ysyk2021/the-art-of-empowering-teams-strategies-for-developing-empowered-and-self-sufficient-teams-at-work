@@ -1,4 +1,4 @@
-Chapter 6: Promoting Continuous Learning and Development: Fostering a Culture of Continuous Improvement
+Fostering a Culture of Continuous Improvement
 =======================================================================================================
 
 In this chapter, we will explore the importance of promoting continuous learning and development as a strategy for empowering teams. We will discuss the benefits of such a culture, as well as strategies for fostering it in your workplace.

@@ -1,4 +1,4 @@
-Chapter 5: Encouraging Innovation and Creativity: Supporting Creative Problem-Solving and Brainstorming
+Supporting Creative Problem-Solving and Brainstorming
 =======================================================================================================
 
 In this chapter, we will discuss how to encourage innovation and creativity in empowered teams. Empowering teams involves creating a culture of autonomy and ownership among team members, which requires creative problem-solving and brainstorming. We will explore how to support creative problem-solving and brainstorming, including promoting a culture of experimentation, providing resources and support, and fostering diverse perspectives.
