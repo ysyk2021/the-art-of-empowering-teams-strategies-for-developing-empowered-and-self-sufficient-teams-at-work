@@ -1,1 +1,0 @@
-for the book "the art of empowering teams strategies for developing empowered and self sufficient teams at work", write a chapter: "recognizing the difference between delegation and micromanagement".  Use Markdown format. Use English.
