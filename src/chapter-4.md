@@ -1,5 +1,3 @@
-Chapter 4: Delegating Authority and Responsibility
-==================================================
 
 In this chapter, we will discuss how to delegate authority and responsibility in empowered teams. Empowering teams involves giving team members the autonomy to make decisions and take ownership of their work, which requires effective delegation. We will explore how to recognize the difference between delegation and micromanagement, delegate authority and responsibility effectively, and provide support and resources for delegated tasks.
 

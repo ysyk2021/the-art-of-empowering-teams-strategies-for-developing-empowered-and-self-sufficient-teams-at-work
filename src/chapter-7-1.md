@@ -1,5 +1,3 @@
-Setting Metrics and Benchmarks for Success
-=====================================================
 
 In this chapter, we will explore the importance of setting metrics and benchmarks for measuring the success and progress of empowered and self-sufficient teams. Establishing clear and meaningful metrics helps teams understand their goals, track their performance, and continuously improve their effectiveness.
 

@@ -1,5 +1,3 @@
-Chapter 8: Managing Conflict and Resolving Problems
-===================================================
 
 In this chapter, we will discuss how to manage conflict and resolve problems in empowered teams. Empowering teams involves giving team members the autonomy to make decisions and take ownership of their work. However, conflicts and problems can arise when team members have different perspectives or ideas about how to approach a task or project. We will explore how to identify and address conflict in an empowered team, strategies for resolving problems and conflicts, and creating a culture of open communication and constructive feedback.
 

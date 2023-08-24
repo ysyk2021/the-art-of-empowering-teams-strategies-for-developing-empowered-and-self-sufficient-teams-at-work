@@ -1,4 +1,3 @@
-# Providing Support and Resources for Delegated Tasks
 
 In this chapter, we will explore the significance of providing support and resources for delegated tasks within teams. Effective delegation involves not only assigning tasks but also equipping team members with the necessary support and resources to excel in their delegated responsibilities.
 

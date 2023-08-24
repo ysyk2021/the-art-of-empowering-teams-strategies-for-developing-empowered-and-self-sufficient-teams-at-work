@@ -1,5 +1,3 @@
-Encouraging Diversity and Inclusivity
-================================================
 
 In this chapter, we will explore the importance of diversity and inclusivity in developing empowered and self-sufficient teams. We will discuss the benefits of embracing diversity, strategies for fostering inclusivity, and how organizations can create an environment where every team member feels valued, respected, and empowered to contribute their unique perspectives and abilities. This chapter aims to provide guidance on promoting diversity and inclusivity for the success of individuals and the organization as a whole.
 

@@ -1,5 +1,3 @@
-Chapter 7: Measuring Success and Celebrating Achievements
-=========================================================
 
 In this chapter, we will discuss how to measure success and celebrate achievements in empowered teams. Empowering teams involves giving team members the autonomy to make decisions and take ownership of their work, which requires setting metrics and benchmarks for success and celebrating team achievements and milestones. We will explore how to set metrics and benchmarks for success, celebrate team achievements and milestones, and recognize individual contributions to team success.
 

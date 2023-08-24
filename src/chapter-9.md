@@ -1,5 +1,3 @@
-Chapter 9: Sustaining Empowerment over Time
-===========================================
 
 In this chapter, we will discuss how to sustain empowerment over time. Empowering teams is not a one-time event but an ongoing process that requires continuous effort and attention from leaders. We will explore how to maintain motivation and engagement among team members, navigate changes and challenges in the workplace, and continuously evaluate and adjust empowerment strategies.
 

@@ -1,5 +1,3 @@
-Chapter 3: Understanding Individual and Team Strengths
-======================================================
 
 In this chapter, we will discuss how to understand individual and team strengths in empowered teams. Empowering teams involves giving team members the autonomy to make decisions and take ownership of their work, which requires understanding individual and team strengths and building well-rounded, complementary teams. We will explore how to identify individual strengths and skills, build well-rounded, complementary teams, and encourage diversity and inclusivity.
 

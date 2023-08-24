@@ -1,5 +1,3 @@
-Identifying and Addressing Conflict in an Empowered Team
-===================================================================
 
 Conflicts are an inevitable part of any team environment, even within empowered and self-sufficient teams. In this chapter, we will explore strategies for identifying and addressing conflict within such teams. By understanding the signs of conflict and implementing effective techniques, teams can maintain their empowerment and work towards resolution in a constructive manner.
 

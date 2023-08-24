@@ -1,5 +1,3 @@
-Chapter 6: Promoting Continuous Learning and Development
-========================================================
 
 In this chapter, we will discuss how to promote continuous learning and development in empowered teams. Empowering teams involves giving team members the autonomy to make decisions and take ownership of their work, which requires ongoing opportunities for professional development and growth. We will explore how to provide opportunities for professional development and growth, encourage a growth mindset among team members, and foster a culture of continuous improvement.
 
