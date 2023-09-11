@@ -1,5 +1,4 @@
-Chapter: Recognizing the Difference between Delegation and Micromanagement
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the importance of recognizing the fundamental difference between delegation and micromanagement in empowering teams. We delve into the strategies that help leaders understand and navigate these two contrasting approaches, enabling them to foster empowered and self-sufficient teams in the workplace.
 
